@@ -1,0 +1,1 @@
+for next repeat the header and foot at each page, we use {% %} template language
